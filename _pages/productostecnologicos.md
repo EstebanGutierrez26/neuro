@@ -11,4 +11,4 @@ Aqui se presentan los productos tecnologicos de los estudiantes del semestre 201
 
 ## Melocotones sin moretones
 
-!(Melocotones sin moretones)({{  site.baseurl  }}/docs/Melocotones sin moretones.pdf)
+![Melocotones sin moretones]({{  site.baseurl  }}/docs/Melocotones sin moretones.pdf)
