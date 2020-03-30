@@ -1,6 +1,6 @@
 ---
-title: "Productos Tecnologicos 2019-03"
-excerpt: "Productos"
+title: "Productos"
+excerpt: "Productos tecnologicos"
 sitemap: false
 permalink: /products/
 layout: single
