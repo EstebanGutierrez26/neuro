@@ -1,8 +1,8 @@
 ---
 title: "Productos Tecnologicos 2019-03"
-excerpt: "
+excerpt: "Productos"
 sitemap: false
-permalink: /tecno/
+permalink: /products/
 layout: single
 classes: wide
 ---
